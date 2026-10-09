@@ -1,0 +1,6 @@
+{
+  "name": "SiteCheck Pro",
+  "description": "Mobile-first site inspection and issue reporting app for construction, safety officers, supervisors, and maintenance teams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

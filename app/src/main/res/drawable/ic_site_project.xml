@@ -1,0 +1,29 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    <!-- Sky / site background -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M0,0h120v120h-120z" />
+    <!-- Industrial building blocks -->
+    <path
+        android:fillColor="#475569"
+        android:pathData="M15,40h35v80h-35z" />
+    <path
+        android:fillColor="#334155"
+        android:pathData="M45,25h40v95h-40z" />
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M80,50h30v70h-30z" />
+    <!-- Windows -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M52,35h8v8h-8z M68,35h8v8h-8z M52,50h8v8h-8z M68,50h8v8h-8z M52,65h8v8h-8z M68,65h8v8h-8z M22,50h8v8h-8z M22,65h8v8h-8z M88,60h8v8h-8z M88,75h8v8h-8z" />
+    <!-- Crane in distance -->
+    <path
+        android:strokeColor="#F59E0B"
+        android:strokeWidth="2"
+        android:pathData="M20,40 L20,10 L70,10 M20,15 L60,10 M45,10 L45,20" />
+</vector>

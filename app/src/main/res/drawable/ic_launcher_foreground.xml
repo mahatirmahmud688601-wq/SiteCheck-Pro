@@ -1,0 +1,35 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Clipboard body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,26h40c3.31,0 6,2.69 6,6v50c0,3.31 -2.69,6 -6,6H34c-3.31,0 -6,-2.69 -6,-6V32c0,-3.31 2.69,-6 6,-6z" />
+
+    <!-- Top clip holder -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M44,22h20c1.66,0 3,1.34 3,3v5H41v-5c0,-1.66 1.34,-3 3,-3z" />
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M48,25h12c0.55,0 1,0.45 1,1s-0.45,1 -1,1H48c-0.55,0 -1,-0.45 -1,-1s0.45,-1 1,-1z" />
+
+    <!-- Inspection checklist lines -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M36,39h20c0.83,0 1.5,0.67 1.5,1.5s-0.67,1.5 -1.5,1.5H36c-0.83,0 -1.5,-0.67 -1.5,-1.5S35.17,39 36,39z M36,48h16c0.83,0 1.5,0.67 1.5,1.5s-0.67,1.5 -1.5,1.5H36c-0.83,0 -1.5,-0.67 -1.5,-1.5S35.17,48 36,48z M36,57h22c0.83,0 1.5,0.67 1.5,1.5s-0.67,1.5 -1.5,1.5H36c-0.83,0 -1.5,-0.67 -1.5,-1.5S35.17,57 36,57z" />
+
+    <!-- Shield Emblem in corner with green check -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M65,52c0,0 7,0 10,2c0,11 -6.5,19 -10,21c-3.5,-2 -10,-10 -10,-21c3,-2 10,-2 10,-2z" />
+    <path
+        android:fillColor="#22C55E"
+        android:pathData="M65,54.5c0,0 5.6,0 8,1.6c0,8.8 -5.2,15.2 -8,16.8c-2.8,-1.6 -8,-8 -8,-16.8c2.4,-1.6 8,-1.6 8,-1.6z" />
+    <!-- Checkmark inside shield -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M63.5,67.2l-3.2,-3.2c-0.4,-0.4 -0.4,-1 0,-1.4c0.4,-0.4 1,-0.4 1.4,0l2.5,2.5l5.8,-5.8c0.4,-0.4 1,-0.4 1.4,0c0.4,0.4 0.4,1 0,1.4L64.9,67.2C64.5,67.6 63.9,67.6 63.5,67.2z" />
+</vector>

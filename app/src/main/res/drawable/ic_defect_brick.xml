@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    <!-- Red brick wall texture -->
+    <path
+        android:fillColor="#991B1B"
+        android:pathData="M0,0h120v120h-120z" />
+    <!-- Mortar lines -->
+    <path
+        android:strokeColor="#CBD5E1"
+        android:strokeWidth="3"
+        android:pathData="M0,30h120 M0,60h120 M0,90h120 M40,0v30 M80,0v30 M20,30v30 M60,30v30 M100,30v30 M40,60v30 M80,60v30 M20,90v30 M60,90v30 M100,90v30" />
+    <!-- Chipped broken corner hole -->
+    <path
+        android:fillColor="#450A0A"
+        android:pathData="M40,40 L70,35 L80,55 L65,75 L45,70 Z" />
+    <path
+        android:fillColor="#1C1917"
+        android:pathData="M50,45 L65,42 L72,55 L60,65 Z" />
+</vector>

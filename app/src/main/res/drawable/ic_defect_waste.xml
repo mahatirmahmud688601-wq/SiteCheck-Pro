@@ -1,0 +1,27 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    <!-- Ground / yard asphalt -->
+    <path
+        android:fillColor="#475569"
+        android:pathData="M0,0h120v120h-120z" />
+    <!-- Waste bin outline -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M20,40 L100,40 L90,105 L30,105 Z" />
+    <!-- Overflowing debris pile (plastic, wood, trash) -->
+    <path
+        android:fillColor="#22C55E"
+        android:pathData="M25,42 C15,30 35,15 45,28 C55,10 75,20 80,35 C95,25 105,38 95,50 C80,60 30,55 25,42 Z" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M38,20 L60,35 L52,45 L30,30 Z" />
+    <path
+        android:fillColor="#EF4444"
+        android:pathData="M65,22 L85,15 L90,30 L70,38 Z" />
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M40,32 L60,40 L50,55 L35,48 Z" />
+</vector>

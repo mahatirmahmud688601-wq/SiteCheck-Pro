@@ -1,0 +1,19 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    <path
+        android:fillColor="#64748B"
+        android:pathData="M0,0h120v120h-120z" />
+    <!-- Bright yellow paint spill on ground -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M60,30 C75,25 90,35 95,50 C100,65 90,85 75,90 C60,95 40,90 30,75 C20,60 30,45 45,35 C50,28 55,32 60,30 Z" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M55,42 C65,38 80,45 78,60 C75,70 60,78 50,72 C42,65 48,50 55,42 Z" />
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M25,35 C28,32 32,35 30,38 C28,40 23,38 25,35 Z M95,78 C98,75 102,78 100,82 C98,84 94,80 95,78 Z" />
+</vector>

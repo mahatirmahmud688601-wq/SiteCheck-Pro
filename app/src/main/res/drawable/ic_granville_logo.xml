@@ -1,0 +1,13 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="72dp"
+    android:height="72dp"
+    android:viewportWidth="72"
+    android:viewportHeight="72">
+    <!-- Granville Audit Co Logo: Green circle with white diagonal dividing bar -->
+    <path
+        android:fillColor="#22C55E"
+        android:pathData="M36,6 C19.43,6 6,19.43 6,36 C6,52.57 19.43,66 36,66 C52.57,66 66,52.57 66,36 C66,19.43 52.57,6 36,6 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M15,22 L50,57 L57,50 L22,15 Z" />
+</vector>

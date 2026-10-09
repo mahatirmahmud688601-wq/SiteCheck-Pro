@@ -1,0 +1,25 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    <!-- Pavement slabs background -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M0,0h120v120h-120z" />
+    <!-- Slab joint lines -->
+    <path
+        android:strokeColor="#475569"
+        android:strokeWidth="3"
+        android:pathData="M60,0v120 M0,60h120" />
+    <!-- Severe jagged crack through concrete slab -->
+    <path
+        android:strokeColor="#0F172A"
+        android:strokeWidth="4"
+        android:strokeLineJoin="round"
+        android:pathData="M15,100 L35,80 L28,65 L48,45 L40,25 L65,15 L75,35 L95,20 L105,40" />
+    <path
+        android:strokeColor="#334155"
+        android:strokeWidth="2"
+        android:pathData="M48,45 L65,55 L58,75 L80,85 M28,65 L10,50" />
+</vector>
